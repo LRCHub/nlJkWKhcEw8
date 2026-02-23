@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Daylight",
+  "base_artist": "David Kushner",
+  "createdAt": "2026-02-23T12:55:34.413167Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Leaving Louisiana In The Broad Daylight",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/01_Leaving_Louisiana_In_The_Broad_Daylight_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Leaving Louisiana In The Broad Daylight",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/02_Leaving_Louisiana_In_The_Broad_Daylight_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Leaving Louisiana In The Broad Daylight - Single Version",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/03_Leaving_Louisiana_In_The_Broad_Daylight_-_Single_Version_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Leaving Louisiana In The Broad Daylight (Single Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/04_Leaving_Louisiana_In_The_Broad_Daylight_(Single_Version)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Leaving Louisiana in the Broad Daylight",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/05_Leaving_Louisiana_in_the_Broad_Daylight_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Leaving Louisiana in the Broad Daylight (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/06_Leaving_Louisiana_in_the_Broad_Daylight_(Remastered_LP_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Prayin' For Daylight - Remastered Version",
+      "artist": "Rascal Flatts",
+      "has_synced": false,
+      "path": "select/07_Prayin'_For_Daylight_-_Remastered_Version_Rascal_Flatts.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daylight",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/08_Daylight_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Daylight",
+      "artist": "Matt and Kim",
+      "has_synced": true,
+      "path": "select/09_Daylight_Matt_and_Kim.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Daylight Dancer",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/10_Daylight_Dancer_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daylight Dancer",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/11_Daylight_Dancer_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Daylight Dancer XX",
+      "artist": "Lacuna Coil",
+      "has_synced": false,
+      "path": "select/12_Daylight_Dancer_XX_Lacuna_Coil.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Daylight",
+      "artist": "Aesop Rock",
+      "has_synced": false,
+      "path": "select/13_Daylight_Aesop_Rock.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Permanent Daylight",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/14_Permanent_Daylight_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Permanent Daylight",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/15_Permanent_Daylight_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heart Swells - Pacific Daylight Time",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/16_Heart_Swells_-_Pacific_Daylight_Time_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Daylight",
+      "artist": "MEDICINE",
+      "has_synced": false,
+      "path": "select/17_Daylight_MEDICINE.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Daylight Robbery",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/18_Daylight_Robbery_Morcheeba.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daylight",
+      "artist": "David Kushner",
+      "has_synced": false,
+      "path": "select/pl_01_Daylight_David_Kushner.txt"
+    }
+  ]
+}
